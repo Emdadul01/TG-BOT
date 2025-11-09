@@ -1,0 +1,17 @@
+{
+  "-1003227038587": {
+    "autoMessageConfig": {
+      "messageText": "<b>Simple Minecraft\n\nIf You Need More Minecraft Mods You Can Visit Our Bot. You'll Find Lots Of Minecraft Mods In Our Bot.</b>",
+      "urlButtons": [
+        {
+          "text": "Our Bot",
+          "url": "https://t.me/Simple_Minecraftbot"
+        }
+      ],
+      "isActive": true,
+      "interval": "0 * * * *",
+      "deletePrevious": true
+    },
+    "translationEnabled": true
+  }
+}

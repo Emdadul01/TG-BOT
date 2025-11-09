@@ -1,0 +1,23 @@
+{
+  "name": "telegram-channel-manager-bot",
+  "version": "1.0.0",
+  "description": "Comprehensive Telegram channel manager bot for @Simple_Minecraft with message management, user moderation, and admin controls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "channel-manager",
+    "telegraf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "@vitalets/google-translate-api": "^9.2.1",
+    "node-cron": "^4.2.1",
+    "telegraf": "^4.16.3"
+  }
+}
